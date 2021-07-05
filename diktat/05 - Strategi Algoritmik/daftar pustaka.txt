@@ -1,0 +1,8 @@
+Horowitz, Ellis& Sartaj Sahni, Fundamental of Computer Algorithms
+Neaopolitan, Foundation of Algorithms
+Levitin, Introduction to Design & Analysis of Algorithms
+Introduction to Algorithms in Pascal Pearsons, thomas
+Data structures and algorithm analysis Weiss, Mark Allen
+Abstract Data Types and Algorithms Azmoodeh
+Data structures and program design in C , Kruse Robert L
+Operations Research, An Introduction
